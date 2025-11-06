@@ -9,3 +9,5 @@ In TMWTGG Men are seen as a superior or more relevant gender within the film so 
 Within the Spy poster it is clear that there is a difference in the interpretations of the male figure. As a female now stands as the centre of interest while two men stand by side as if they where bodyguards. To predominantly show that men are of lower status than the female protagonist such as to be side characters (props theory). All of them wearing a more formal attire as such to be clear that they are on an equal standing with each other.
 
 There are some similarities with both these posters in which that they portray the societal norms of the time period the films were made in, TMWTGG is clear to be a more olden film embracing the beliefs held in a Patriarchal society  and Spy holding a more appeal to those audiences which would most likely share the same values we hold in the current day.
+
+The representation of men between these two posters is clearly a parallel to the political beliefs such as communism and capitalism, as to say the two film posters represent the male individual in such contrasting lights.
