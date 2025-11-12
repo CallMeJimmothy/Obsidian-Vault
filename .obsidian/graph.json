@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "tag:#subjectbranch1  ",
+      "color": {
+        "a": 1,
+        "rgb": 10346921
+      }
     }
   ],
   "collapse-display": false,
@@ -53,6 +60,6 @@
   "repelStrength": 18.6458333333333,
   "linkStrength": 1,
   "linkDistance": 378,
-  "scale": 0.4545695463989524,
+  "scale": 0.2066334725133495,
   "close": false
 }

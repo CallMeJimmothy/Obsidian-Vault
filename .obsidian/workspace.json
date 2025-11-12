@@ -4,41 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "387c24de5d206709",
         "type": "tabs",
-        "dimension": 59.200507614213194,
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "5624212655d6cbcb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "media/unforseen exam questions/unseen Comparison 25 marker.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "unseen Comparison 25 marker"
-            }
-          }
-        ]
-      },
-      {
-        "id": "32bf43c66119fbea",
-        "type": "tabs",
-        "dimension": 40.7994923857868,
-        "children": [
-          {
-            "id": "efa6ee27414c5b09",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "media/unforseen exam questions/unseen comparison MWTGG VS SPY.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "unseen comparison MWTGG VS SPY"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -227,13 +203,22 @@
       "bases:Create new base": false,
       "publish:Publish changes...": false,
       "homepage:Open homepage": false,
-      "obsidian-git:Open Git source control": false,
       "smart-second-brain:Open S2B Chat": false,
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "5624212655d6cbcb",
   "lastOpenFiles": [
+    "Videos/Electrolysis Basics and Molten Compounds.mp4",
+    "science/Chemisty/Electrolysis/Basics and Molten compounds.md",
+    "Videos",
+    "science/Chemisty/Electrolysis.md",
+    "science/Chemisty/Chemistry.md",
+    "Untitled Kanban.md",
+    "science/Chemisty/Electrolysis",
+    "science/Physics/Physics.md",
+    "science/biology/Biology.md",
+    "Subjects/Business.md",
     "media/unforseen exam questions/unseen Comparison 25 marker.md",
     "media/unforseen exam questions/unseen comparison MWTGG VS SPY.jpg",
     "Business/Topic 2.1 notes/pictures/2.1 rev 1.jpg",
@@ -258,9 +243,6 @@
     "Business/Topic 2.1 notes/2.1 rev 4.jpg.0.pdnSave",
     "Business/Topic 2.1 notes/2.1 rev 3.jpg.0.pdnSave",
     "Business/Topic 2.1 notes/2.1 rev 2.jpg.0.pdnSave",
-    "Business/Topic 2.1 notes/2.1 rev 1.jpg.0.pdnSave",
-    "Business/Topic 2.1 notes",
-    "Subjects/Business.md",
     "media/TMWTGG/TMWTGG Representation (Section A).md",
     "media/TMWTGG/TMWTGG Media Language (Section A).md",
     "media/TMWTGG/TMWTGG Context.md",
@@ -269,13 +251,6 @@
     "media/NTTD/Relevant Theory.md",
     "media/NTTD/Representation (Section A).md",
     "media/NTTD/Media Language (Section A).md",
-    "media/NTTD/No Time To Die (NTTD).md",
-    "media/NTTD/NTTD 12 marker REV.md",
-    "media/NTTD/Context.md",
-    "media/NTTD/Audiences (Section B).md",
-    "media/NTTD/Media Industry (Section B).md",
-    "media/NTTD/NTTD 12 marker Redo.md",
-    "media/TMWTGG",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
