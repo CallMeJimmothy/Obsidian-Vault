@@ -4,17 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "387c24de5d206709",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "5624212655d6cbcb",
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "media/unforseen exam questions/unseen Comparison 25 marker REDRAFT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "unseen Comparison 25 marker REDRAFT"
+            }
+          },
+          {
+            "id": "013e28567a261242",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
+            }
+          },
+          {
+            "id": "05e99ed6db447574",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "media/unforseen exam questions/unseen Comparison 25 marker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "unseen Comparison 25 marker"
             }
           }
         ]
@@ -188,7 +216,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 561.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -204,13 +232,33 @@
       "publish:Publish changes...": false,
       "homepage:Open homepage": false,
       "smart-second-brain:Open S2B Chat": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "5624212655d6cbcb",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Videos/Electrolysis Basics and Molten Compounds.mp4",
+    "Chats/New Chat.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "media/unforseen exam questions/unseen Comparison 25 marker REDRAFT.md",
+    "Chats",
+    "media/unforseen exam questions/unseen Comparison 25 marker.md",
     "science/Chemisty/Electrolysis/Basics and Molten compounds.md",
+    "Videos/Electrolysis Basics and Molten Compounds.mp4",
     "Videos",
     "science/Chemisty/Electrolysis.md",
     "science/Chemisty/Chemistry.md",
@@ -219,38 +267,20 @@
     "science/Physics/Physics.md",
     "science/biology/Biology.md",
     "Subjects/Business.md",
-    "media/unforseen exam questions/unseen Comparison 25 marker.md",
     "media/unforseen exam questions/unseen comparison MWTGG VS SPY.jpg",
     "Business/Topic 2.1 notes/pictures/2.1 rev 1.jpg",
     "Subjects/Media.md",
     "media/unforseen exam questions",
     "Business/Topic 2.1 notes/Business growth.md",
     "Business/Topic 2.1 notes/Business Objectives.md",
-    "Business/Topic 2.1 notes/PLCs.md",
-    "Business/Topic 2.1 notes/Growth Summary.md",
-    "Business/Revision photos.md",
-    "Business/Topic 2.1.md",
     "Business/Topic 2.1 notes/pictures/2.1 rev 2.jpg",
     "Business/Topic 2.1 notes/pictures/2.1 rev 4.jpg",
     "Business/Topic 2.1 notes/pictures/2.1 rev 5.jpg",
     "Business/Topic 2.1 notes/pictures/2.1 rev 6.jpg",
     "Business/Topic 2.1 notes/pictures/2.1 rev 3.jpg",
-    "media/TMWTGG/TMWTGG INFO.md",
-    "Business/Business Exam Question Structure.md",
     "Business/Topic 2.1 notes/pictures",
     "Business/Topic 2.1 notes/2.1 rev 6.jpg.0.pdnSave",
     "Business/Topic 2.1 notes/2.1 rev 5.jpg.0.pdnSave",
-    "Business/Topic 2.1 notes/2.1 rev 4.jpg.0.pdnSave",
-    "Business/Topic 2.1 notes/2.1 rev 3.jpg.0.pdnSave",
-    "Business/Topic 2.1 notes/2.1 rev 2.jpg.0.pdnSave",
-    "media/TMWTGG/TMWTGG Representation (Section A).md",
-    "media/TMWTGG/TMWTGG Media Language (Section A).md",
-    "media/TMWTGG/TMWTGG Context.md",
-    "media/TMWTGG/TMWTGG Audiences (Section B).md",
-    "media/TMWTGG/The Man with The Golden Gun (TMWTGG).md",
-    "media/NTTD/Relevant Theory.md",
-    "media/NTTD/Representation (Section A).md",
-    "media/NTTD/Media Language (Section A).md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

@@ -1,5 +1,6 @@
 #examquestion 
 Golden gun vs spy
+[[unseen Comparison 25 marker REDRAFT]]
 [[unseen comparison MWTGG VS SPY.jpg]]
 
 There are many differences these two selected media products as for they are both film posters containing the same genre of movie. The two posters are TMWTGG (The Man With The Golden Gun) and Spy -- for which presumably they fall under the action spy genre -- both representing men in their own unique way.
