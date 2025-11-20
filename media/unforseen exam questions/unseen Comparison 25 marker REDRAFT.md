@@ -1,1 +1,12 @@
 #examquestion 
+The two film posters provide a insight into the values of the cultures in which they are made in. By looking at the posters for "The Man with the Golden Gun" (TMWTGG) and "Spy," It is clear that the way men are shown in movies has changed. These posters, both from the action-spy genre, show a big difference in how men are portrayed.
+
+The TMWTGG poster, from 1974, shows the classic idea of masculinity. James Bond, or 007, is the main focus. He stands tall, and his weapon is clearly visible, showing his power. The Bond girls are there too, but they're positioned to make Bond look even stronger. This reflects the common views of the time, where men were often seen as the leaders and women were often there to support them as of society where leaned toward Patriarchy. The poster's colours and design also probably highlight Bond's strength and control. Bond is the hero, and the poster makes that very clear as well as the clear use on Laura Mulvey's male gaze theory which she coined for media which uses women just to entice men with lust.
+
+In "Spy," released in 2015, things are very different. The main character is a woman, and the men are in supporting roles. This is a big change from the usual action-spy movies. The men are wearing formal clothes, which suggests they're all equal. This poster challenges the traditional way men have been shown in these types of movies. The way the poster is designed, the colours used, and the characters' expressions all show this shift. It's a clear message: the world of spies isn't just for men anymore.
+
+We can also think about these posters in terms of ideas about society. The TMWTGG poster, with its focus on one strong man, reminds us of the ideas often linked to capitalism, where individual success is very important. Bond is the ultimate individual, working alone and focused on his own goals. The "Spy" poster, on the other hand, shows teamwork and a woman in charge. This might reflect a more modern view, where working together and sharing responsibility are valued.
+
+The time each film was made is important. TMWTGG reflects the 1970s, when traditional ideas about men and women were common. "Spy," made in the 21st century, shows a society that's becoming more open and equal.
+
+In short, the posters for "The Man with the Golden Gun" and "Spy" show how the way men are shown in movies has changed. By looking at the pictures, the time they were made, and the ideas they represent, we can better understand how our views of men have also changed.
