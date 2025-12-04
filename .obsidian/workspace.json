@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3b57f6ca8f2efbf1",
+        "id": "531df989ad7ff720",
         "type": "tabs",
         "children": [
           {
-            "id": "02213bda703745cc",
+            "id": "436645a8b044a3fb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "media/music videos/Swifty - The Man.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Swifty - The Man"
             }
           }
         ]
@@ -206,8 +210,19 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "02213bda703745cc",
+  "active": "436645a8b044a3fb",
   "lastOpenFiles": [
+    "media/music videos/Stormzy - superhero's.md",
+    "media/music videos/Music Videos.md",
+    "media/music videos/Swifty - The Man.md",
+    "media/Modern family/Modern family.md",
+    "media/Modern family/MF Media language.md",
+    "media/Modern family/MF Representation.md",
+    "Subjects/Media.md",
+    "media/music videos",
+    "media/TMWTGG/TMWTGG Representation (Section A).md",
+    "media/TMWTGG/TMWTGG Media Language (Section A).md",
+    "media/Modern family",
     "media/Fortnite/Fortnite - Key Terminology.md",
     "media/Fortnite/Fortnite - Media Industry.md",
     "media/Fortnite/Fortnite - Context.md",
@@ -215,7 +230,6 @@
     "media/Fortnite/Fortnite.md",
     "media/Fortnite/Fortnite - Audiences.md",
     "media/Fortnite/media highlighting.jpg",
-    "Subjects/Media.md",
     "Subjects/math.md",
     "media/NTTD/No Time To Die (NTTD).md",
     "NTTD.md",
@@ -224,19 +238,11 @@
     "media/NTTD/Relevant Theory.md",
     "media/TMWTGG/The Man with The Golden Gun (TMWTGG).md",
     "media/Fortnite",
-    "media/TMWTGG/TMWTGG Media Language (Section A).md",
     "media/TMWTGG/Untitled.md",
     "Chats/New Chat.md",
     "media/unforseen exam questions/unseen Comparison 25 marker.md",
     "media/unforseen exam questions/unseen Comparison 25 marker REDRAFT.md",
-    "copilot/copilot-conversations/yo_could_u_use_the_25_marker_which_is_branched@20251113_175235.md",
     "copilot/copilot-conversations",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Chats",
@@ -245,13 +251,11 @@
     "science/Chemisty/Electrolysis",
     "media/unforseen exam questions/unseen comparison MWTGG VS SPY.jpg",
     "Business/Topic 2.1 notes/pictures/2.1 rev 1.jpg",
-    "media/unforseen exam questions",
     "Business/Topic 2.1 notes/pictures/2.1 rev 2.jpg",
     "Business/Topic 2.1 notes/pictures/2.1 rev 4.jpg",
     "Business/Topic 2.1 notes/pictures/2.1 rev 5.jpg",
     "Business/Topic 2.1 notes/pictures/2.1 rev 6.jpg",
     "Business/Topic 2.1 notes/pictures/2.1 rev 3.jpg",
-    "Business/Topic 2.1 notes/pictures",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

@@ -1,0 +1,5 @@
+Close ups and medium shots are frequently used to capture the characters’ reactions and two shots are used to show family relationships
+The documentary style of filming, where characters break the fourth wall to talk to the invisible interviewer in a direct mode of address, constructs a version of reality which is highly relatable to audiences.
+Iconography. The use of sofas for the documentary style interview scenes have become an iconic aspect of the programme, for example, when Phil sits on the sofa and confesses to the audience that he is suffering PTSD symptoms after his experience of being locked in a room.
+Technical and audio. Modern Family uses a single-camera style of filming, where each shot is viewed and recorded from the perspective of one camera and edited in a more cinematic way. This suits the mockumentary style set-up and differs from more traditional sitcoms, such as Friends, which was recorded with a multi-camera set up in front of a studio audience.
+Technical codes: Camera shots, angles, movements and editing combine to construct representations.
